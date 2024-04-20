@@ -1,0 +1,59 @@
+{
+  "bot-account": {
+    "username": "Tyrolia"
+  },
+
+  "server": {
+    "ip": "TSVMXO.aternos.me",
+    "port": 49371,
+    "version": "1.20.4"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "ananinami3131"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false,
+      "jump": false,
+      "rotate": false,
+
+      "hit": {
+        "enabled": false,
+        "delay": 20,
+        "attack-mobs": true
+      },
+
+      "circle-walk": {
+        "enabled": true,
+        "radius": 10
+      }
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 240,
+
+      "messages": [
+        "Terola Studio İzliyor.. ",
+        "Crafty Dinliyor."
+        
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 10000
+  }
+}
